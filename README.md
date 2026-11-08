@@ -5,6 +5,8 @@
 
 **Telemetry over guessing.**
 
+**Developed by [KeilerHirsch Labs](https://github.com/KeilerHirschLabs)** · Project lead: [KeilerHirsch](https://github.com/KeilerHirsch).
+
 <img src="docs/assets/scum-senf-hero.webp" alt="SCUM-SENF promotional artwork for server observability, events and notifications" width="100%">
 
 </div>
@@ -25,7 +27,7 @@ SCUM-SENF is being designed as an open-source foundation for **server observatio
 
 ### Follow the project
 
-[**Issues & ideas**](https://github.com/KeilerHirsch/SCUM-SENF/issues) · [**Contributing**](CONTRIBUTING.md) · [**Security reporting**](SECURITY.md)
+[**Issues & ideas**](https://github.com/KeilerHirschLabs/SCUM-SENF/issues) · [**Contributing**](CONTRIBUTING.md) · [**Security reporting**](SECURITY.md)
 
 ---
 

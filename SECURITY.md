@@ -4,7 +4,7 @@ SCUM-SENF is pre-release and not production-ready.
 
 Report vulnerabilities privately through GitHub's security advisory flow:
 
-https://github.com/KeilerHirsch/SCUM-SENF/security/advisories/new
+https://github.com/KeilerHirschLabs/SCUM-SENF/security/advisories/new
 
 Do not publish credentials, private server data, player data, or an unpatched vulnerability in a public issue.
 
